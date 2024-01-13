@@ -9,9 +9,7 @@
 
 ### 숙제 확인
 
-* 챕터 디렉토리에 `{GitHub username}.md` 파일을 생성한다.
-  * 질문 파일: `Ch01. 사용자 수에 따른 규모 확장성/question/whatasame.md`
-  * 정답 파일: `Ch01. 사용자 수에 따른 규모 확장성/solution/whatasame.md`
+* 챕터 디렉토리에 `{GitHub username}.md` 파일을 생성한다. e.g. `Ch01. 사용자 수에 따른 규모 확장성/whatasame.md`
 * `{챕터 번호}_{GitHub username}` 형식으로 PR을 생성한다. e.g. `1_whatasame`
 
 ### 진행 방법
